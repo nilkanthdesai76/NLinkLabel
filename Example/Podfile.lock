@@ -1,0 +1,16 @@
+PODS:
+  - NLinkLabel (0.1.0)
+
+DEPENDENCIES:
+  - NLinkLabel (from `../`)
+
+EXTERNAL SOURCES:
+  NLinkLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NLinkLabel: d8955918796e7bb2d4f1317dde8de262c6311dda
+
+PODFILE CHECKSUM: 3b315eb6494fbba6a2b913f28d9409250bdc846e
+
+COCOAPODS: 1.14.3

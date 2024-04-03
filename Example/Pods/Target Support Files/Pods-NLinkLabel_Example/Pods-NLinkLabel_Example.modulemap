@@ -1,0 +1,6 @@
+framework module Pods_NLinkLabel_Example {
+  umbrella header "Pods-NLinkLabel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "NLinkLabel",
+  "version": "0.1.0",
+  "summary": "A UILabel extension for adding tappable sections to text, enhancing interactivity within iOS apps.",
+  "homepage": "https://github.com/nilkanthdesai76/NLinkLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nilkanthdesai76": "nilkanthdesai76@gmail.com"
+  },
+  "source": {
+    "http": "https://github.com/nilkanthdesai76/NLinkLabel.git"
+  },
+  "swift_versions": [
+    "4.2",
+    "5.0"
+  ],
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "Pod/Classes/**/*.{h,m,swift}",
+  "swift_version": "5.0"
+}

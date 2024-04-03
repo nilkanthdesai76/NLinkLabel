@@ -1,0 +1,8 @@
+use_frameworks!
+
+platform :ios, '14.0'
+
+target 'NLinkLabel_Example' do
+  pod 'NLinkLabel', :path => '../'
+    
+end
